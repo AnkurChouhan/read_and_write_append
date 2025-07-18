@@ -11,10 +11,10 @@ The script (`write_append_file.py`) does the following:
 1. Takes input from the user and writes it to `output.txt`.
 2. Appends more user input to the same file.
 3. Reads and displays the final contents of the file.
+![Task Output](assets/append_data.png
 
 ## How to Run
 
 ```bash
 python read_file.py
 python write_append_file.py
-![Task 1 Output](assets/append_data.png
